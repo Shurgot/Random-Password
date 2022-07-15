@@ -12,6 +12,4 @@ for(let i = 0; i < K; i++){
     passFinal += pass
 }
 
-passFinal += passValueSp[getRandom(passValueSp.length)] 
-
-console.log(passFinal)
+console.log(passFinal);
